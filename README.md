@@ -16,7 +16,7 @@ Demographic Data: Age, location, and whether they have partners or dependents.
 Service Data: Number of lines, internet service type (DSL, Fiber optic), and security add-ons.
 Usage & Billing: Monthly charges, total charges, contract length (month-to-month vs. yearly), and payment methods.
 
-The Goal: Actionable Retention
+# The Goal: Actionable Retention
 The ultimate objective isn't just to predict who will leave, but to understand why. This allows for targeted strategies such as:
 
 Personalized Incentives: Offering data upgrades to those nearing their limits.
