@@ -22,3 +22,20 @@ The ultimate objective isn't just to predict who will leave, but to understand w
 Personalized Incentives: Offering data upgrades to those nearing their limits.
 Contract Optimization: Incentivizing month-to-month users to move to long-term plans.
 Technical Intervention: Identifying users in areas with high dropped-call rates for infrastructure priority.
+
+
+# Final Outputs
+
+<img width="691" height="547" alt="Roc curve" src="https://github.com/user-attachments/assets/5ae8f00f-c456-4a90-929d-0dbf052d1bcb" />
+
+
+<img width="571" height="455" alt="Segmentation distribution" src="https://github.com/user-attachments/assets/b0648bdb-961c-4558-88ab-baa4309a34df" />
+
+
+<img width="683" height="547" alt="confusion matrix" src="https://github.com/user-attachments/assets/3a843546-c51d-4a48-96eb-fd749de37b9b" />
+
+
+<img width="790" height="940" alt="Global imp" src="https://github.com/user-attachments/assets/a3ceb57e-4ff2-4018-a4a0-8056960fba79" />
+
+
+<img width="791" height="940" alt="Feature imp" src="https://github.com/user-attachments/assets/f7bcb2ab-3a42-4c7c-8ebe-4765bdbe1a7f" />
