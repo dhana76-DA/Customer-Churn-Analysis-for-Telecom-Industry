@@ -39,3 +39,7 @@ Technical Intervention: Identifying users in areas with high dropped-call rates 
 
 
 <img width="791" height="940" alt="Feature imp" src="https://github.com/user-attachments/assets/f7bcb2ab-3a42-4c7c-8ebe-4765bdbe1a7f" />
+
+<img width="534" height="316" alt="Output" src="https://github.com/user-attachments/assets/46ff6f8f-0bb4-4e6f-875c-3bf6492f0280" />
+
+
